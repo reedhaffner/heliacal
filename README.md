@@ -1,4 +1,5 @@
-# Heliacal
+# Heliacal [![PyPI](https://img.shields.io/pypi/v/Heliacal.svg)](https://pypi.org/project/Heliacal/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/Heliacal.svg)](https://pypi.org/project/Heliacal/)
+
 Python module to get sunrise, sunset, daytime, and twilight data for a location.
 
 This is an API wrapper for [sunrise-sunset.org](https://sunrise-sunset.org/).
