@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Heliacal",
-    version="1.0.0",
+    version="2.0.1",
     author="Reed Haffner",
     author_email="reedhaffner@pm.me",
     description="Python module to get sunrise, sunset, daytime, and twilight data for a location.",
